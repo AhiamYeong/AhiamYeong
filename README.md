@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 <h3 align="center">Studying Stack</h3>
 <p align="center">  
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+
 </p>
