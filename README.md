@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+[![AhiamYeong
+'s GitHub stats](https://github-readme-stats.vercel.app/api?username=AhiamYeong
+)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<h3 align="center">Studying Stack</h3>
+<p align="center">  
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+</p>
