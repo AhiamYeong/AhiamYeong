@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# 이아영
+## SSAFY 13기 서울9반 
 <!--
 **AhiamYeong/AhiamYeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
